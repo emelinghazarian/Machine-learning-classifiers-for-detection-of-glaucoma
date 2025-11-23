@@ -61,6 +61,7 @@ Glaucoma is a leading cause of irreversible blindness. Early and accurate diagno
 
 ## System Architecture
 
+```text
 Fundus Image
      │
      ▼
@@ -83,6 +84,7 @@ Glaucoma / Healthy
 
 ## Repository structure
 
+```text
 ├── preprocessing/
 ├── cdr/
 ├── models/
