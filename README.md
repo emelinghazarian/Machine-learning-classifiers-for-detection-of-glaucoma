@@ -81,6 +81,7 @@ ML/DL Classification (SVM / DT / K-Means / MobileViT)
      │
      ▼
 Glaucoma / Healthy
+```
 
 ## Repository structure
 
@@ -97,6 +98,7 @@ Glaucoma / Healthy
 ├── images/
 ├── README.md
 └── GlaucomaPaper.pdf
+```
 
 ## Mobile Screening Interface
 
